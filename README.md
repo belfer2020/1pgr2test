@@ -4,3 +4,4 @@ testowe repozytorium
 To ja staszek
 ta? to wyśmienicie
 siema sikema to ja Jakub
+jol jol
