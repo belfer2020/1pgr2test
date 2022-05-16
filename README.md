@@ -1,3 +1,3 @@
 # 1pgr2test
-testowe
-##test GitHub
+testowe repozytorium
+##test GitHub 
